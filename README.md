@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![MCP](https://img.shields.io/badge/MCP-Server-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Outils](https://img.shields.io/badge/Outils-5-orange)
 # 🗂️ MCP File Explorer
 
 Un serveur MCP (Model Context Protocol) qui permet à Claude d'explorer et d'interagir avec vos fichiers locaux. Ce serveur expose 5 outils puissants pour naviguer dans le système de fichiers.
