@@ -1,0 +1,14 @@
+{
+  "app_name": "MonApp",
+  "version": "2.3.1",
+  "database": {
+    "host": "db.example.com",
+    "port": 5432,
+    "name": "production"
+  },
+  "features": {
+    "dark_mode": true,
+    "notifications": true,
+    "beta_features": false
+  }
+}

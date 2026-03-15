@@ -1,0 +1,10 @@
+id,nom,role,projet,statut,heures,date_debut
+1,Marie Dupont,Designer UX,Refonte site web,en cours,120,2026-01-15
+2,Thomas Leroy,Dev Frontend,Refonte site web,en cours,95,2026-01-20
+3,Sophie Martin,Chef de projet,Refonte site web,en cours,60,2026-01-10
+4,Lucas Bernard,Dev Backend,API Paiement,termine,140,2025-11-01
+5,Emma Petit,QA Testeur,API Paiement,termine,80,2025-12-01
+6,Marie Sergent,Agent,App Mobile,a refaire,15,2026-04-10
+7,Hugo Moreau,Dev Backend,Refonte site web,en cours,110,2026-01-20
+8,Camille Roux,Data Analyst,Dashboard Analytics,en cours,75,2026-02-01
+9,Thomas Leroy,Dev Frontend,App Mobile,a refaire,0,2026-04-15
